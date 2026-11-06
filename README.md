@@ -1,10 +1,10 @@
 # Python-Creators-monetisation-potential
-	A python project analysing how certain factors (AI use, age and gender) affect a creator's monetisation potential.
+A python group project analysing how certain factors (AI use, age and gender) affect a creator's monetisation potential.
 
 # What's in this repository?
-	Digital poster of the insights attained
-	An .ipynb file of the code used to generate graphs in poster (can opened in Jupyter notebook)
-	Dataset files (.csv)
+- Digital poster of the insights attained
+- An .ipynb file of the code used to generate graphs in poster (can opened in Jupyter notebook)
+- Dataset files (.csv)
 
 # Objective
 We analysed the factors that drive monetisation potential on creatorhub - a fictional platform made for this project's intent purpose. THe factors were namely the level of AI use, as well as the age and gender of our user demographics.
